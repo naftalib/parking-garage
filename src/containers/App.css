@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Roboto:wght@900&display=swap');
+
+.f1 {
+  font-family: 'Roboto';
+  font-weight: 200;
+  color: #7fdff4;
+  margin: 0;
+}
+.f3{
+  font-family: 'Roboto';
+  color: #fff;
+  letter-spacing: 0.1em;  
+  opacity: 65%;
+  margin: 1em 0 1em 0;
+
+}
+
+/*<NB/>*/
+.tag{
+    opacity: 30%;
+    margin-bottom: 0;
+    font-size: 2em;
+    color: #fff
+}
+
+.hr_main{
+    max-width: 260px;
+    width: 30%;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #7fdff4;    
+}
+
+.card_content{
+  font-size: 0.8em;
+}
+.card_content h4{
+   max-width: calc(30em * 0.5);
+
+}
