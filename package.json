@@ -1,6 +1,6 @@
 {
-  "name": "roboQuotes",
-  "homepage": "https://naftalib.github.io/roboQuotes",
+  "name": "robots",
+  "homepage": "https://naftalib.github.io/robots",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
