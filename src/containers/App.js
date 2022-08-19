@@ -10,7 +10,7 @@ class App extends Component {
       state = {
       robots: [],
       searchfield: ''
-      // robo_quote:''
+ 
     }
   
   componentDidMount() {
